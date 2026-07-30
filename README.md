@@ -41,7 +41,6 @@ The dashboard enables users to explore the dataset through interactive filters a
 
 ### Specifications Dashboard
 ![Specifications Dashboard](Specifications Dashboard.jpeg)
-
 ---
 
 ## 📂 Project Files
