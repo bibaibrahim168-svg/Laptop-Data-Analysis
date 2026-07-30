@@ -37,10 +37,13 @@ The dashboard enables users to explore the dataset through interactive filters a
 ## 📷 Dashboard Preview
 
 ### Laptop Sales Overview
-![Laptop Sales Overview](Overview Dashboard.jpeg)
+![Laptop Sales Overview](Overview%20Dashboard.jpeg)
+
+
 
 ### Specifications Dashboard
-![Specifications Dashboard](Specifications Dashboard.jpeg)
+
+![Specifications Dashboard](Specifications%20Dashboard.jpeg)
 ---
 
 ## 📂 Project Files
